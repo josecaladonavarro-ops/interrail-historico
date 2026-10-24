@@ -1,0 +1,9 @@
+{
+  "name": "Interrail Histórico — Europa 1939–1945",
+  "short_name": "Interrail Histórico",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101e28",
+  "theme_color": "#142b39",
+  "lang": "es"
+}
